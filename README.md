@@ -82,10 +82,6 @@ It includes:
 Documentation can be found at [sleeping owl documentation](http://sleeping-owl.github.io).
 You can also find it in the `/src/docs` directory.
 
-## Demo Application
-
-View [live demo](http://sleepingowladmindemo.cloudcontrolled.com/admin/login).
-
 ## Support Library
 
 You can donate via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AXJMWMRPCBGVA) or in BTC: 13k36pym383rEmsBSLyWfT3TxCQMN2Lekd
